@@ -2,6 +2,6 @@
 File Sharing System
 
 # Main Contributors 
-Mohammed Alhaq
-Sonika Sharma
+Mohammed Alhaq,
+Sonika Sharma,
 Temi Aremu
